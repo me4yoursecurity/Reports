@@ -10,7 +10,7 @@
 
 # Description:
 
-An attacker can access the upload function of the application without authenticating to the application and also can upload files due the issues of unrestricted file uploads which can be bypassed by changing the content-type and name file too double extensions (file.html.gif)
+An attacker can access the upload function of the application without authenticating to the application and also can upload files due the issues of unrestricted file uploads which can be bypassed by changing the content-type and name file too double extensions 
 
 # PoC:
 
